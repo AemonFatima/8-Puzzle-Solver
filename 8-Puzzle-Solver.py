@@ -1,7 +1,3 @@
-#   Faraz Majid
-#   20L-1162
-#   Assignment 1
-#   8-Puzzle Problem
 import time
 import copy
 import queue
